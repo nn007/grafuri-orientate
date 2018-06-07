@@ -1,0 +1,62 @@
+body,html{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	list-style-type: none;
+}
+.nav{
+	background: #313131;
+}
+.svg-inline--fa{
+	color: #fff;
+}
+input[type="text"], input[type="password"]{
+	outline: none;
+	padding: 10px;
+}
+#particles-js{
+	background: #610000;
+}
+.particles-js{
+	position: relative;
+	height: 100vh;
+}
+a{
+	color: #616161;
+}
+a:hover{
+	text-decoration: none;
+	background: #610000;
+	transition: all 0.5s ease;
+	color: #fff;
+}
+.content{
+	max-width: 300px;
+	max-height: 300px;
+	border-radius: 5px;
+	background: #eee;
+	padding: 15px 15px;
+	opacity: 0.8;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.registerLink{
+	padding: 5px;
+}
+input{
+	margin: 2px 0;
+}
+.logButton{
+	width: 75%;
+	border: 0;
+}
+.logButton:hover{
+	background: #610000;
+	color: #fff;
+	transition: all 0.5s ease;
+}

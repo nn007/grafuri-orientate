@@ -1,0 +1,41 @@
+body,html{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	font-family: 'Raleway', sans-serif;
+	list-style-type: none;
+	color: #fff;
+}
+.nav{
+	background: #313131;
+}
+.svg-inline--fa{
+	color: #fff;
+}
+h2{
+	text-align: center;
+}
+.jumbotron-fluid{
+	background: #610000;
+	min-height: 100%;
+	margin: 0;
+    padding: 0;
+}
+.wrapper{
+	text-align: center;
+}
+
+input[type="submit"]{
+	border: 0;
+	width: 100%;
+	border-radius: 5px;
+}
+input[type="submit"]:hover{
+	
+}
+/*.fontawesome-i2svg-active .fontawesome-i2svg-complete{
+	margin: 0;
+	padding: 0;
+}
+*/
